@@ -60,7 +60,3 @@ Asma Shahzadi
 Full Stack Developer
 
 ---
-
-## 📜 License
-
-This project is created for educational and learning purposes.
